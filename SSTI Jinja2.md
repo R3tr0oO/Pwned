@@ -1,6 +1,9 @@
 ### TESTING INJECTION CAPABILITIES
 {{7*'7'}}
 
+### CONFIGURATION OF THE SYSTEM
+{{ config }}
+
 ### ALL AVAILABLE CLASSES
 {{ "".__class__.__mro__[1].__subclasses__() }}
 
